@@ -2,7 +2,7 @@
 
 > Building products that look good, scale well, and eliminate manual work.
 
-![Portfolio Banner](./public/banner.png)
+![Portfolio Banner](./public/favicon.png)
 
 ## 🌟 About
 
